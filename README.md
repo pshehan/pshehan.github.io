@@ -1,2 +1,2 @@
-# pshehan.github.io
-patrick shehan portfolio website
+# Basic-Portfolio
+My second attempt at pushing Basic Portfolio
